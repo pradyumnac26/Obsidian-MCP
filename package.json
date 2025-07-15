@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.11.4",
+    "bun": "^1.2.13",
+    "kiteconnect": "^5.0.1"
+  },
+  "name": "mcp-zerodha",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  }
+}
