@@ -1,4 +1,4 @@
-# mcp-zerodha
+# mcp-Obsidian
 
 To install dependencies:
 
